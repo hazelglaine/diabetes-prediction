@@ -20,4 +20,7 @@ This project aims to predict the onset of diabetes based on various health indic
 - **Data Processing**: Preprocesses the dataset by handling missing values, scaling features, and applying one-hot encoding.
 - **Model Training and Evaluation**: Trains multiple machine learning models and evaluates their performance.
 - **Models Implemented**:
-   - Includes logistic regression, decision tree, random forest, and support vector machine.
+   - Logistic regression
+   - Decision tree
+   - Random forest
+   - Support vector machine.
