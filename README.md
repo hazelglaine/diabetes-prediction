@@ -23,4 +23,5 @@ This project aims to predict the onset of diabetes based on various health indic
    - Logistic regression
    - Decision tree
    - Random forest
-   - Support vector machine.
+   - Gradient boosting machine
+   - Support vector machine
